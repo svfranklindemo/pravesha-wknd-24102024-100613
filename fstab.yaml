@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/edsdemo/Shared%20Documents/lpbeds/pbakliwal/esaas-demo/securefinance
+  /: https://adobe.sharepoint.com/sites/alturaeds/Shared%20Documents/esaaslpbeds/pravesha/esaas-bulk-import-721b53c0-24b9-4bba-8967-9fcea0794402/docx
 
 folders:
   /products/: /products/default
